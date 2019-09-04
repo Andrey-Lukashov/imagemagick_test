@@ -1,0 +1,19 @@
+[
+  {
+    "input": "test-1.jpg",
+    "output": "test-1-output.gif",
+    "size": "50%"
+  },
+  {
+    "input": "test-2.jpg",
+    "output": "test-2-output.png",
+    "size": "90%",
+    "transpose": true
+  },
+  {
+    "input": "test-3.jpg",
+    "output": "test-3-output.jpg",
+    "size": "20%",
+    "transpose": false
+  }
+]
